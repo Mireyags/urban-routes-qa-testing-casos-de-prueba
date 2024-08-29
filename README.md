@@ -1,18 +1,28 @@
 # urban-routes-qa-testing-casos-de-prueba
 Requisitos para la función de compartir un automóvil de Urban Routes.
-# Urban Routes QA Testing 
+# urban-routes-qa-testing
 
+Pruebas y documentación para Urban Routes 
 ## Descripción
-Este repositorio contiene los resultados y la documentación para la entrega del proyecto de pruebas de regresión para la aplicación Urban Routes.
 
-## Estructura del Repositorio
-- Documentación adicional, capturas de pantalla y el diagrama de flujo.
-- Resultados de pruebas, informes de errores, clases de equivalencia y casos de prueba.
-- Plantillas usadas en el proyecto.
-
+Este repositorio contiene la documentación y resultados de las pruebas para la funcionalidad de compartir un automóvil en Urban Routes. Incluye el diseño de pruebas, diagramas y listas de comprobación para la función de "Agregar licencia de conducir" y el cálculo de precios y duración del viaje.
 ## Instrucciones
-1. **Resultados del Sprint**: Los resultados de los casos de prueba y los informes de errores.
-2. **Documentación Adicional**: Capturas de pantalla y el diagrama de flujo.
-3. **Clases de Equivalencia y Casos de Prueba**: Documentos relacionados están.
+
+Preparar la documentación:
+        Dibuja un mapa mental para la función "Agregar licencia de conducir".
+        Define clases de equivalencia y valores límite para los campos "Nombre" y "Apellido".
+        Dibuja un diagrama de flujo para calcular el precio y la duración del viaje.
+        Diseña pruebas para el cálculo del precio y la duración del viaje.
+
+Estructura del Repositorio
+
+  Mapa mental y diagramas.
+        Mapa mental para la función "Agregar licencia de conducir".
+        Diagrama de flujo para calcular el precio y la duración del viaje.
+
+  Casos de prueba y clases de equivalencia.
+        Clases de equivalencia para los campos "Nombre" y "Apellido".
+        Clases de equivalencia para el cálculo del precio y la duración del viaje.
+        Casos de prueba para el cálculo del precio y la duración del viaje.
 
 https://docs.google.com/document/d/1fu8S-AYYKNIKiQ5mqmuJiEmeRk5D01mY/edit?pli=1
