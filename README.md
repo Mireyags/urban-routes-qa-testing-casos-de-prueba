@@ -14,3 +14,5 @@ Plantillas usadas en el proyecto.
 1. **Resultados del Sprint**: Los resultados de los casos de prueba y los informes de errores.
 2. **Documentación Adicional**: Capturas de pantalla.
 3. **Clases de Equivalencia y Casos de Prueba**: Archivos relacionados.
+
+https://docs.google.com/document/d/1fu8S-AYYKNIKiQ5mqmuJiEmeRk5D01mY/edit?pli=1
