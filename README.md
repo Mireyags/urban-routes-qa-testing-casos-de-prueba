@@ -1,4 +1,4 @@
-# Proyecto Función "Compartir un Automóvil" - Completado
+# Proyecto Función "Compartir un Automóvil"
 
 ## Descripción del Proyecto
 
@@ -8,24 +8,24 @@ Este proyecto se centró en la preparación y documentación de pruebas para la 
 
 1. **Mapa Mental para la Función "Agregar Licencia de Conducir":**
    - **Descripción:** Se creó un mapa mental para representar gráficamente los requisitos y diseño de la función "Agregar licencia de conducir".
-   - **Documento:** [Mapa Mental - PDF] https://drive.google.com/file/d/1LjgpS0SxEfDUoqzEVpfu-LC-7zbuXGS1/view
+   - **Documento:** [Mapa Mental - PDF] 
    - **Detalles:** El mapa mental detalla la interfaz y funcionalidad de la función, incluyendo las zonas grises identificadas durante el análisis.
 
 2. **Definición de Clases de Equivalencia y Valores Límite:**
    - **Descripción:** Se definieron las clases de equivalencia y los valores límite para los campos "Nombre" y "Apellido" en el formulario de licencia de conducir.
-   - **Documento:** [Clases de Equivalencia - Parte 1] https://docs.google.com/spreadsheets/d/1lAdTaKUXEIo0a1cD2DGDToWjfuaUI7gD/edit?gid=1899960451#gid=1899960451
+   - **Documento:** [Clases de Equivalencia - Parte 1]
    - **Detalles:** Este documento incluye clases de equivalencia, valores límite y valores de prueba para escenarios positivos y negativos.
 
 3. **Diagrama de Flujo para el Cálculo del Precio y la Duración:**
    - **Descripción:** Se elaboró un diagrama de flujo para visualizar la lógica detrás del cálculo del precio y la duración del viaje.
-   - **Documento:** [Diagrama de Flujo - PDF] https://drive.google.com/file/d/1dQToln0qETCZFQjVPorT7akuGbeTgizm/view
+   - **Documento:** [Diagrama de Flujo - PDF]
    - **Detalles:** El diagrama muestra el algoritmo para seleccionar la velocidad del automóvil compartido según la hora de salida.
 
 4. **Diseño de Pruebas para el Cálculo del Precio y la Duración:**
    - **Descripción:** Se diseñaron pruebas para verificar la lógica de cálculo de duración y precio del viaje, considerando distintas clases de equivalencia.
    - **Documentos:** 
-     - [Clases de Equivalencia - Parte 2] https://docs.google.com/spreadsheets/d/1lAdTaKUXEIo0a1cD2DGDToWjfuaUI7gD/edit?gid=2082743691#gid=2082743691
-     - [Casos de Prueba] https://docs.google.com/spreadsheets/d/1lAdTaKUXEIo0a1cD2DGDToWjfuaUI7gD/edit?gid=1633448385#gid=1633448385
+     - [Clases de Equivalencia - Parte 2]
+     - [Casos de Prueba]
    - **Detalles:** Estos documentos incluyen clases de equivalencia, valores de prueba, y casos de prueba específicos para validar los cálculos.
 
 ## Tecnologías Utilizadas
